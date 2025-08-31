@@ -1,0 +1,11 @@
+﻿name: Feature Request
+description: Proponi una funzionalità
+body:
+  - type: textarea
+    attributes:
+      label: Descrizione
+      placeholder: "Cosa vuoi aggiungere e perché"
+  - type: textarea
+    attributes:
+      label: Criteri di accettazione
+      placeholder: "Considera completata la feature quando..."

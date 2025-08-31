@@ -1,0 +1,64 @@
+﻿# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files (tutti tranne l'esempio)
+.env
+.env.*
+!.env.example
+
+# Vercel & Supabase
+.vercel
+.env.vercel.prod
+.env.local
+
+# System
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary / backup docs
+docs/Backup*
+
+*.backup.ts
+*.backup.tsx
+*.lint-backup.ts
+
+
+*backup*.ts
+*backup*.tsx
+*.lint-backup.ts
+*.backup.ts
+*.backup.tsx
+
+
+*.backup
+*.backup.ts
+*.backup.tsx
+
+
+*.backup
+*.backup.ts
+*.backup.tsx
+
+
+# local backups
+*.backup
+*.backup.*
+*.lint-backup.ts
+/scripts/backups/
+
+
+# local backups
+z__backup/

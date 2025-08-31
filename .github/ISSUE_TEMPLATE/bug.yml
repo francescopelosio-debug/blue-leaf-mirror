@@ -1,0 +1,11 @@
+﻿name: Bug Report
+description: Segnala un bug
+body:
+  - type: textarea
+    attributes:
+      label: Cosa succede
+      placeholder: "Errore, passi per riprodurre, comportamento atteso"
+  - type: input
+    attributes:
+      label: URL/ambiente
+      placeholder: "Prod / Preview / Local"
